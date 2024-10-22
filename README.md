@@ -23,6 +23,15 @@ To open and edit the MuseScore files, you will need to download the free MuseSco
 - [Download Esta Tierra (MuseScore file)](https://github.com/cheche200/adelante_canta/blob/main/scores/esta_tierra/Esta%20Tierra.mscz)
 - [Download Esta Tierra (PDF)](https://github.com/cheche200/adelante_canta/blob/main/scores/esta_tierra/busto-esta%20tierra%20(1).pdf)
 
+### 2. Adeste Fideles - John Francis Wade
+
+- [Download Adeste Fideles (MuseScore file)](https://github.com/cheche200/adelante_canta/blob/main/scores/adeste_fideles/Adeste_Fideles_-_John_Francis_Wade.mscz)
+- [Download Adeste Fideles (PDF)](https://github.com/cheche200/adelante_canta/blob/main/scores/adeste_fideles/Adeste_Fideles__John_Rieding.pdf)
+
+### 3. Crepuscular - Antonio Lauro
+
+- [Download Crepuscular (MuseScore file)](https://github.com/cheche200/adelante_canta/blob/main/scores/crepuscular/Crepuscular.mscz)
+- [Download Crepuscular (PDF)](https://github.com/cheche200/adelante_canta/blob/main/scores/crepuscular/Crepuscular.pdf)
 ---
 
 ### How to Add More Songs
